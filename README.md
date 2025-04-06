@@ -1,9 +1,3 @@
-Here’s the exact README format, updated with the points you wanted to include:
-
----
-
-# Fx_ScalperBot.py
-
 ### Introduction
 This is a Forex Algo Trading Bot developed by me, Kris, to assist with trading **currency pairs and indices**. The bot is designed specifically for Forex trading and is **not suitable for trading cryptocurrencies or metals**.
 
@@ -23,9 +17,6 @@ The bot currently achieves an accuracy of approximately **30-35%**, making it a 
 I am continually improving this bot and welcome any constructive feedback or suggestions from the trading community. Your insights can help make this tool even more effective.
 
 ---
-
-Let me know if you’d like any additional changes or details added!
-
 
 
 
